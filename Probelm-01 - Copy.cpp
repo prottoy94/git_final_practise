@@ -110,5 +110,6 @@ int main() {
     cout<<"Trying to do fifht commit [Start working on second day]"<<'\n';
     cout<<"Trying to do final day commit"<<'\n';
     cout<<"Trying to do final day commit [Local branch]"<<'\n';
+    cout<<"Trying to do final day commit [Local branch] 2.0"<<'\n';
     return 0;
 }
